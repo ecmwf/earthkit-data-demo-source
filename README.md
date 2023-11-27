@@ -9,7 +9,7 @@ Requires earthkit-data versions >= 0.5.0.
 
 ``` pip install earthkit-data-demo-source``` -->
 
-# Usage
+## Usage
 
 See https://earthkit-data.readthedocs.io/en/feature-plugins/plugins/sources_plugin.html  
 
