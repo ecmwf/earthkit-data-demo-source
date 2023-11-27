@@ -1,16 +1,15 @@
 # earthkit-data-demo-source
 
-This is an example of a **data sources plugin** for [earthkit-data](https://earthkit-data.readthedocs.io/). It enables earthkit-data to access data from an SQL database. 
 
 **DISCLAIMER**
 
-> Currently, only used for development purposes. Will only work in a yet to be released version of earthkit-data. 
+> This project is just a demo and **not supported** for operational use at all. **DO NOT USE** it in operations.
 
 
-<!-- 
-# Installing
+This is an example of a **data sources plugin** for [earthkit-data](https://earthkit-data.readthedocs.io/). It enables earthkit-data to access data from an SQL database. 
 
-``` pip install earthkit-data-demo-source``` -->
+Currently, this example only works with the "develop" branch of earthkit-data. 
+
 
 ## Usage
 
