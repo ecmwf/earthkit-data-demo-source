@@ -2,9 +2,10 @@
 
 This is an example of a **data sources plugin** for earthkit-data. It allows accessing data from a SQL database using earthkit-data.
 
+<!-- 
 # Installing
 
-``` pip install earthkit-data-demo-source```
+``` pip install earthkit-data-demo-source``` -->
 
 # Usage
 
