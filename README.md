@@ -2,7 +2,10 @@
 
 This is an example of a **data sources plugin** for [earthkit-data](https://earthkit-data.readthedocs.io/). It enables earthkit-data to access data from an SQL database. 
 
-Requires earthkit-data versions >= 0.5.0.
+**DISCLAIMER**
+
+> Currently, only used for development purposes. Will only work in a yet to be released version of earthkit-data. 
+
 
 <!-- 
 # Installing
