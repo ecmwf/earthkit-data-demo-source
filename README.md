@@ -8,8 +8,6 @@
 
 This is an example of a **data sources plugin** for [earthkit-data](https://earthkit-data.readthedocs.io/). It enables earthkit-data to access data from an SQL database. 
 
-Currently, this example only works with the "develop" branch of earthkit-data. 
-
 ## Install
 
 ```pip install earthkit-data-demo-source```
